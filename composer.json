@@ -1,0 +1,16 @@
+{
+    "name": "Skipytr/wasdclass",
+    "type": "library",
+    "description": "WASD Class",
+    "keywords": ["php","wasd"],
+    "homepage": "https://hburaktasyurek.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "H.Burak Taşyürek",
+            "email": "hburaktasyurek@gmail.com",
+            "homepage": "https://hburaktasyurek.com",
+            "role": "Developer"
+        }
+    ],
+}
